@@ -1,6 +1,6 @@
 #### Hi, I'm Vipul 👋
  
-Engineering leader with 18+ years in front-end and product engineering — Google, Salesforce, Walmart Labs, and a few startups along the way. Currently rebuilding hands-on React/TypeScript fundamentals after some time in more architecture- and leadership-focused roles.
+Engineering leader with 18+ years in front-end and product engineering — Google, Salesforce, Walmart Global Tech, and a few startups along the way. Currently rebuilding hands-on React/TypeScript fundamentals after some time in more architecture- and leadership-focused roles.
  
 - 🔨 Currently building [github-search](https://github.com/vipulbhasin23/github-search) — a React/TypeScript refresher project, in progress
 - 🧰 JavaScript · React · TypeScript · Front-End Architecture
