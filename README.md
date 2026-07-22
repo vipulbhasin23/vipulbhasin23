@@ -1,11 +1,11 @@
-### Hi, I'm Vipul 👋
-
+#### Hi, I'm Vipul 👋
+ 
 Engineering leader with 18+ years in front-end and product engineering — Google, Salesforce, Walmart Labs, and a few startups along the way. Currently rebuilding hands-on React/TypeScript fundamentals after some time in more architecture- and leadership-focused roles.
-
-🔨 Currently building [github-search](https://github.com/vipulbhasin23/github-search) — a React/TypeScript refresher project, in progress
-🧰 JavaScript · React · TypeScript · Front-End Architecture
-📍 Gurugram, India
-🔗 [LinkedIn](https://www.linkedin.com/in/bhasinvipul)
+ 
+- 🔨 Currently building [github-search](https://github.com/vipulbhasin23/github-search) — a React/TypeScript refresher project, in progress
+- 🧰 JavaScript · React · TypeScript · Front-End Architecture
+- 📍 Gurugram, India
+- 🔗 [LinkedIn](https://www.linkedin.com/in/bhasinvipul)
 
 <!--
 **vipulbhasin23/vipulbhasin23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
