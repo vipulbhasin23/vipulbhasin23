@@ -2,7 +2,7 @@
  
 Engineering leader with 18+ years in front-end and product engineering — Google, Salesforce, Walmart Global Tech, and a few startups along the way. Currently rebuilding hands-on React/TypeScript fundamentals after some time in more architecture- and leadership-focused roles.
  
-- 🔨 Building a React/TypeScript refresher project [github-search](https://github.com/vipulbhasin23/github-search)) — in progress
+- 🔨 Building a React/TypeScript refresher project ([github-search](https://github.com/vipulbhasin23/github-search)) — in progress
 - 🔨 Building a Go key-value store ([kvstore](https://github.com/vipulbhasin23/kvstore)), exploring storage engine fundamentals — in progress
 - 🧰 JavaScript · React · TypeScript · Front-End Architecture
 - 📍 Gurugram, India
