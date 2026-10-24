@@ -1,12 +1,13 @@
 #### Hi, I'm Vipul 👋
- 
-Engineering leader with 18+ years in front-end and product engineering — Google, Salesforce, Walmart Global Tech, and a few startups along the way. Currently rebuilding hands-on React/TypeScript fundamentals after some time in more architecture- and leadership-focused roles.
- 
-- 🔨 Building a React/TypeScript refresher project ([github-search](https://github.com/vipulbhasin23/github-search)) — in progress
-- 🔨 Building a Go key-value store ([kvstore](https://github.com/vipulbhasin23/kvstore)), exploring storage engine fundamentals — in progress
-- 🧰 JavaScript · React · TypeScript · Front-End Architecture
+
+Staff/Principal Engineer with 18+ years in front-end and full-stack engineering — Google, Walmart Global Tech, The New York Times, and a few startups along the way. Currently hands-on in Go and React/TypeScript.
+
+- 🗄️ [kvstore](https://github.com/vipulbhasin23/kvstore) — Go key-value store with a write-ahead log, crash recovery and concurrency; design tradeoffs in DECISIONS.md
+- ⚛️ [github-search](https://github.com/vipulbhasin23/github-search) — React/TypeScript search UI with debounce, request cancellation and favorites
+- ✍️ Writing two books for Orange AVA — AI-assisted front-end development, and Go
+- 🧰 JavaScript · TypeScript · React · Go · Front-End Architecture
 - 📍 Gurugram, India
-- 🔗 [LinkedIn](https://www.linkedin.com/in/bhasinvipul)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/bhasinvipul/)
 
 <!--
 **vipulbhasin23/vipulbhasin23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
